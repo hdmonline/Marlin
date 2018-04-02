@@ -652,7 +652,7 @@
 //#define Z_PROBE_OFFSET_FROM_EXTRUDER 0   // Z offset: -below +above  [the nozzle]
 
 // BELOW IS FOR THE FRONT MOUNTED SENSOR WITH 3D PRINTED MOUNT
-#define X_PROBE_OFFSET_FROM_EXTRUDER -28  // X offset: -left  +right  [of the nozzle] //-21
+#define X_PROBE_OFFSET_FROM_EXTRUDER -25  // X offset: -left  +right  [of the nozzle] //-21
 #define Y_PROBE_OFFSET_FROM_EXTRUDER -45  // Y offset: -front +behind [the nozzle] //-43
 #define Z_PROBE_OFFSET_FROM_EXTRUDER 0   // Z offset: -below +above  [the nozzle]
 
